@@ -1,10 +1,6 @@
 #ifndef MALLOC_CHECKER_H
 #define MALLOC_CHECKER_H
 
-#include<stdio.h>
-#include<stdlib.h>
-
-
 int checkMalloc() {
     // Number of elements in the array
     size_t num_elements = 5;
